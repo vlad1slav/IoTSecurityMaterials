@@ -4,6 +4,8 @@ List of materials on which to learn IoT/IIoT Security.
 Before learning (and especially teaching) hacking or security in general I recommend to watch [How To Learn (And Teach) Hacking - Ruben Gonzalez](https://www.youtube.com/watch?v=p6IC-7Nx3r4).
 Please also keep in mind that you don't just "learn IoT security", IoT applications has a lots of components radio/hardware/software/mobile/web and you won't be able to learn them all at once, so choose what you are interested in and start with it.
 
+
+
 ## Mics
 This material may help you regardless of what you want to learn
 <table>
@@ -223,3 +225,9 @@ List of resources where you can find a trainings or webinars.
     </td>
   </tr>
 </table>
+
+
+## Other Awesome materials
+If this guide is kind of small for you - do not forget to check out other Awesome materials.
+https://github.com/V33RU/IoTSecurity101
+https://github.com/to0thl3ss/IoTLinks
