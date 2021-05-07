@@ -114,6 +114,16 @@ Materials on SDR/Radio hacking. For specific protocols see next section.
       <p>Another video about radio. But this one gives great approach on brute-force of codes, so must watch.</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p>
+        http://websdr.org/
+      </p>
+    </td>
+    <td>
+      <p>If you don't have SDR, this is the way to play with signals.</p>
+    </td>
+  </tr>
 </table>
 
 ## Wireless
@@ -167,6 +177,49 @@ Materials on Bluetooth, WiFi, etc.
     </td>
     <td>
       <p>Intro to UART.</p>
+    </td>
+  </tr>
+</table>
+
+## Webinars or trainings
+List of resources where you can find a trainings or webinars.
+<table>
+  <tr>
+    <td>
+      <p><strong> Resource </strong></p>
+    </td>
+    <td>
+      <p><strong>Description</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        <a href="https://hardwear.io/">hardwear.io</a>
+      </p>
+    </td>
+    <td>
+      <p>Webinars + Conferences + Trainings, recordings of old are available.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        https://nullcon.net/website/
+      </p>
+    </td>
+    <td>
+      <p>Also good source of trainings.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>
+        https://www.inguardians.com/resources/
+      </p>
+    </td>
+    <td>
+      <p>Different resources from an information security consulting company.</p>
     </td>
   </tr>
 </table>
