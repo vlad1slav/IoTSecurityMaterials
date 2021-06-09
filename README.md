@@ -37,6 +37,16 @@ This material may help you regardless of what you want to learn
       <p>Not a hacking video. This should be viewed by Architects or Testers that also may report security usability issues. This talk underlines that IoT devices have different settings both secure and unsecure, users strive for simplicity so they usually use unsecure because it is easier to config. Suggestions are given on how to design security features configuration to be more user-friendly.</p>
     </td>
   </tr>
+  <tr>
+    <td>
+      <p>
+        <a href="https://habr.com/ru/company/vdsina/blog/560664/">[russian] Security of Embedded Linux</a>
+      </p>
+    </td>
+    <td>
+      <p>Nice overview article in Russian on different security mechanisms in embedded systems.</p>
+    </td>
+  </tr>
 </table>
 
 ## IIoT
