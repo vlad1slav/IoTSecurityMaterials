@@ -239,5 +239,6 @@ List of resources where you can find a trainings or webinars.
 
 ## Other Awesome materials
 If this guide is kind of small for you - do not forget to check out other Awesome materials.
-https://github.com/V33RU/IoTSecurity101
-https://github.com/to0thl3ss/IoTLinks
+https://github.com/V33RU/IoTSecurity101,
+https://github.com/to0thl3ss/IoTLinks,
+Awesome Bluetooth Security (BR, EDR, LE, and Mesh) (https://github.com/engn33r/awesome-bluetooth-security)
